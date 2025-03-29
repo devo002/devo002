@@ -1,7 +1,7 @@
 ## Hi, I'm David Onaiyekan👋
 
 
-🚀 AI Enthusiast | 🧠 Machine Learning Engineer | 💻 Software Developer
+🚀 AI Enthusiast | 🧠 Machine Learning Engineer | 💻 Web Developer
 
 🔬 Previouly worked on Semi-Supervised Learning for Deep Learning-Based Image Classification in Visual Inspection of Wound Coils. 
 
